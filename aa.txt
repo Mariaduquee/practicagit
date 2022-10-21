@@ -2,5 +2,7 @@ Otro cambio participante A
 Cambio!
 
 Contenido aa	
-:D contenido b
+
+:c
+
 Cambio b
